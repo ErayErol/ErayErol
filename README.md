@@ -1,11 +1,13 @@
 <!-- HEAD START -->
-<h2> Hello, gang! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Eray. 👦 😏<h2>
+<h2> Hello, gang! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Eray. 👦<h2>
 
 <p align="left">
   <a href="https://softuni.bg/certificates/details/61142/ca611a05">
    <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" width="200">
   </a>
 </p>
+
+<hr>
 
 ## Currently I’m a student at [**Software University**](https://softuni.bg/) 💻👨‍🎓
 - ⭐ Student name: `E.Erol`
@@ -15,8 +17,6 @@
 - ❤️ I love: `Football ⚽` `Manchester United 👿` `Dogs 🐶` `Sport Cars 🚗` `Cycling 🚵`
 - ⚡ Fun fact about me: `I wake up every morning at 04:00 🌄 🌇`
 - 📍 Location: Haskovo/Bulgaria `:bulgaria:` 
-
-<hr>
 
 ## I’m learning programming with:
 - `C# ✅`
