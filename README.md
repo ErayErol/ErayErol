@@ -1,21 +1,28 @@
 <!-- HEAD START -->
-<p align="center">
+<!--
+![Eray's github stats](https://github-readme-stats.vercel.app/api?username=erayerol&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erayerol&layout=compact)]
+-->
+
+- **Hello, gang!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Eray. 👦
+
+<p align="left">
   <a href="https://softuni.bg/certificates/details/61142/ca611a05" align="center">
    <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" width="200" align="center">
   </a>
 </p>
-
-- **About Me**
-  - I’m a student at [**Software University**](https://softuni.bg/) 💻
-  - Student name: `E.Erol ⭐`
-  - My Credits: `92 🎯`
-  - My target: `Full Stack Web Developer 🏆`
 
 - **I’m learning programming with:**
   - `C# ✅`
   - `SQL ✅`
   - `JavaScript ✅`
   - `HTML & CSS ✅`
+
+- **Currently I’m a student at [**Software University**](https://softuni.bg/) 💻**
+  - Student name: `E.Erol ⭐`
+  - My Credits: `92 🎯`
+  - My target: `Full Stack Web Developer 🏆`
+
 <!-- HEAD END -->
 <br />
 <!-- C# Technology Fundamentals Start -->
