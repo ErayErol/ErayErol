@@ -125,3 +125,6 @@
    <img src="https://softuni.bg/certificates/certificates/converttoimage/95864?code=115c65bc" width="300">
 </details>
 <!-- C# OOP End -->
+<hr>
+
+## I know certificates means nothing 😉 If you want to see my solvs and projects [**CLICK**](https://github.com/ErayErol/Software-University-Courses)
