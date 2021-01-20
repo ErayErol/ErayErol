@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<hr>
-
 ## Currently I’m a student at [**Software University**](https://softuni.bg/) 💻👨‍🎓
 - ⭐ Student name: `E.Erol`
 - 🎯 My Credits: `92`
@@ -56,13 +54,12 @@
 <br>
 <hr>
 
- ### GitHub Stats:
-![Eray's github stats](https://github-readme-stats.vercel.app/api?username=erayerol&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erayerol&layout=compact)]
-  
-<hr>
-<!--! [](https://img.shields.io/badge/✅EDITOR-VS CODE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
+### GitHub Stats:
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erayerol&hide=contribs,prs,issues&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erayerol&layout=compact)
+
 <!-- HEAD END -->
+<hr>
 <!-- C# Technology Fundamentals Start -->
 <h2> My Certificates: </h2>
 <details>
