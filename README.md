@@ -43,8 +43,11 @@
    <summary>
 	   <strong> CLICK </strong> to see my certificate from Technology Fundamentals - September 2018 ✔️
    </summary>
-   
-   <img src="https://softuni.bg/certificates/certificates/converttoimage/61142?code=ca611a05" width="300">
+	
+	
+<a href="https://softuni.bg/certificates/details/61142/ca611a05">
+	<img src="https://i.imgur.com/hoyXqMB.png" width="300">
+</a>   	
    
    <details>
    <summary>
