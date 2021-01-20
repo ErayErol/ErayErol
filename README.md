@@ -1,17 +1,16 @@
 <!-- HEAD START -->
 - **About Me**
   - I’m a student at [**Software University**](https://softuni.bg/) 💻
-  - Student name: `E.Erol`⭐
-  - My Credits: `92`🎯
-  - My target: `Full Stack Web Developer` 🏆
+  - Student name: `E.Erol ⭐`
+  - My Credits: `92 🎯`
+  - My target: `Full Stack Web Developer 🏆`
   
-- **I’m learning programming with**
+- **I’m learning programming with:**
   - `C# ✅`
   - `SQL ✅`
   - `JavaScript ✅`
   - `HTML & CSS ✅`
 <!-- HEAD END -->
-<br />
 <br />
 <!-- C# Technology Fundamentals Start -->
 <details>
