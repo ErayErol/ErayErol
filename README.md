@@ -1,6 +1,6 @@
 
 ### Hi, I'm Eray 👋
-### ➡️ I’m a student at Software University. I’m learning programming mainly with C# and a little experience with SQL, JavaScript, HTML/CSS. 💻
+### ➡️ I’m a student at Software University. I’m learning programming mainly with `C#` and a little experience with `SQL`, `JavaScript`, `HTML/CSS`. 💻
 
 <!-- HEAD START -->
 <table border="0.9" width="1000" cellspacing="12" cellpadding="5" align="left">
@@ -41,26 +41,14 @@
 <hr>
 <details>
    <summary>
-	   <strong> CLICK </strong> to see my certificate from Technology Fundamentals - September 2018 ✔️
+	<strong> CLICK </strong> to see my certificate from Technology Fundamentals - September 2018 ✔️
    </summary>
-	
-	
-<a href="https://softuni.bg/certificates/details/61142/ca611a05">
+   <a href="https://softuni.bg/certificates/details/61142/ca611a05">
 	<img src="https://i.imgur.com/hoyXqMB.png" width="300">
-</a>   	
-   
-   <details>
+   </a>
+<details>
    <summary>
-      <strong> CLICK </strong> 
-       <table width="100%" cellspacing="11" cellpadding="14">
-         	<tbody>
-           	 <tr>
-               	  <th align="left">
-                    for more detailed information about Technology Fundamentals - September 2018 ✔️
-               	  </th>
-            	 </tr>
-         	</tbody>
-   	  </table>
+      <strong> CLICK </strong> for more detailed information about Technology Fundamentals - September 2018 ✔️
    </summary>
 <!-- Course Body -->
    <table border="0" width="100%" cellspacing="1" cellpadding="1" align="left">
@@ -281,57 +269,57 @@
 </details>
 </details>
 <!-- C# Technology Fundamentals End -->
-
 <hr>
-
+<!-- C# Advanced Start -->
 <details>
    <summary>
 	    <strong> CLICK </strong> to see my certificate from C# Advanced - January 2019 ✔️
    </summary>
    <img src="https://softuni.bg/certificates/certificates/converttoimage/63113?code=c00d4fc8" width="300">
 </details>
-
+<!-- C# Advanced End -->
 <hr>
-
+<!-- JavaScript Advanced Start -->
 <details>
    <summary>
 	    <strong> CLICK </strong> to see my certificate from JavaScript Advanced - September 2019 ✔️
    </summary>
    <img src="https://softuni.bg/certificates/certificates/converttoimage/81303?code=a8a65ba6" width="300">
 </details>
-
+<!-- JavaScript Advanced End -->
 <hr>
-
+<!-- JavaScript Applications Start -->
 <details>
    <summary>
 	    <strong> CLICK </strong> to see my certificate from JavaScript Applications - February 2020 ✔️
    </summary>
    <img src="https://softuni.bg/certificates/certificates/converttoimage/80470?code=3750ade7" width="300">
 </details>
-
+<!-- JavaScript Applications End -->
 <hr>
-
+<!-- HTML & CSS Start -->
 <details>
    <summary>
 	    <strong> CLICK </strong> to see my certificate from HTML & CSS - May 2020 ✔️
    </summary>
    <img src="https://softuni.bg/certificates/certificates/converttoimage/84903?code=376c266d" width="300">
 </details>
-
+<!-- HTML & CSS End -->
 <hr>
-
+<!-- CSS Advanced Start -->
 <details>
    <summary>
 	    <strong> CLICK </strong> to see my certificate from CSS Advanced - July 2020 ✔️
    </summary>
    <img src="https://softuni.bg/certificates/certificates/converttoimage/87631?code=d8b5539d" width="300">
 </details>
-
+<!-- CSS Advanced End -->
 <hr>
-
+<!-- C# OOP Start -->
 <details>
    <summary>
 	    <strong> CLICK </strong> to see my certificate from C# OOP - October 2020 2020 ✔️
    </summary>
    <img src="https://softuni.bg/certificates/certificates/converttoimage/95864?code=115c65bc" width="300">
 </details>
+<!-- C# OOP End -->
