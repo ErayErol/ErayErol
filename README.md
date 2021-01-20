@@ -1,5 +1,5 @@
 <!-- HEAD START -->
-<h2> Hello, gang! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Eray. 👦 <h2>
+<h2> Hello, gang! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Eray. 👦 😏<h2>
 
 <p align="left">
   <a href="https://softuni.bg/certificates/details/61142/ca611a05">
@@ -7,13 +7,14 @@
   </a>
 </p>
 
-## Currently I’m a student at [**Software University**](https://softuni.bg/) 💻
+## Currently I’m a student at [**Software University**](https://softuni.bg/) 💻👨‍🎓
 - ⭐ Student name: `E.Erol`
 - 🎯 My Credits: `92`
 - 🏆 My target: `Full Stack Web Developer`
-- 🥅 2021 Goals: MS SQL Entity Framework Core, Data Structures, C# Web Basics, ASP.NET CORE
-- ⚡ Fun fact: I love to Travel and play online Games/Programming
-- 📍 Location: Haskovo/Bulgaria :bulgaria: 
+- 🥅 2021 Goals: `MS SQL`, `Entity Framework Core`, `Data Structures`, `C# Web Basics`, `ASP.NET CORE`
+- ❤️ I love: `Football ⚽` `Manchester United 👿` `Dogs 🐶` `Sport Cars 🚗` `Cycling 🚵`
+- ⚡ Fun fact about me: `I wake up every morning at 04:00 🌄 🌇`
+- 📍 Location: Haskovo/Bulgaria `:bulgaria:` 
 
 <hr>
 
