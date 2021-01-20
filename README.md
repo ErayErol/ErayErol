@@ -5,6 +5,10 @@
   - My Credits: `92 🎯`
   - My target: `Full Stack Web Developer 🏆`
   
+<a href="https://softuni.bg/certificates/details/61142/ca611a05">
+ <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" width="200">
+</a>
+  
 - **I’m learning programming with:**
   - `C# ✅`
   - `SQL ✅`
