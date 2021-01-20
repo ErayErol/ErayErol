@@ -14,7 +14,7 @@
 - 🥅 2021 Goals: `MS SQL`, `Entity Framework Core`, `Data Structures`, `C# Web Basics`, `ASP.NET CORE`
 - ❤️ I love: `Football ⚽` `Manchester United 👿` `Dogs 🐶` `Sport Cars 🚗` `Cycling 🚵`
 - ⚡ Fun fact about me: `I wake up every morning at 04:00 🌄 🌇`
-- 📍 Location: `Haskovo/Bulgaria`:bulgaria: 
+- 📍 Location: `Haskovo/Bulgaria`
 
 ## I’m learning programming with: 💻
 - `C# ✅`
