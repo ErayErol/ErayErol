@@ -7,7 +7,7 @@
   </a>
 </p>
 
-## Currently I’m a student at [**Software University**](https://softuni.bg/) 💻👨‍🎓
+## Currently I’m a student at [**Software University**](https://softuni.bg/) 👨‍🎓
 - ⭐ Student name: `E.Erol`
 - 🎯 My Credits: `92`
 - 🏆 My target: `Full Stack Web Developer`
@@ -16,7 +16,7 @@
 - ⚡ Fun fact about me: `I wake up every morning at 04:00 🌄 🌇`
 - 📍 Location: `Haskovo/Bulgaria`:bulgaria: 
 
-## I’m learning programming with:
+## I’m learning programming with: 💻
 - `C# ✅`
 - `SQL ✅`
 - `JavaScript ✅`
@@ -127,4 +127,5 @@
 <!-- C# OOP End -->
 <hr>
 
-## I know certificates means nothing 😉 If you want to see my solvs and projects [**CLICK**](https://github.com/ErayErol/Software-University-Courses)
+## I know certificates means nothing 😏
+- If you want to see my solvs and projects [**CLICK**](https://github.com/ErayErol/Software-University-Courses)
