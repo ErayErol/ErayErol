@@ -1,50 +1,17 @@
-- [**Sensors**](./docs/Sensors.md)
-  - [`useBattery`](./docs/useBattery.md) &mdash; tracks device battery state. [![][img-demo]](https://codesandbox.io/s/qlvn662zww)
-  - [`useGeolocation`](./docs/useGeolocation.md) &mdash; tracks geo location state of user's device. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/sensors-usegeolocation--demo)
-  - [`useHover` and `useHoverDirty`](./docs/useHover.md) &mdash; tracks mouse hover state of some element. [![][img-demo]](https://codesandbox.io/s/zpn583rvx)
-  - [`useHash`](./docs/useHash.md) &mdash; tracks location hash value. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/sensors-usehash--demo)
-  - [`useIdle`](./docs/useIdle.md) &mdash; tracks whether user is being inactive.
-  - [`useIntersection`](./docs/useIntersection.md) &mdash; tracks an HTML element's intersection. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/sensors-useintersection--demo)
-
-### Hi, I'm Eray 👋
-### ➡️ I’m a student at [**Software University**](https://softuni.bg/). I’m learning programming mainly with `C#` and a little experience with `SQL`, `JavaScript`, `HTML/CSS`. 💻
 <!-- HEAD START -->
-<table border="0.9" width="1000" cellspacing="12" cellpadding="5" align="left">
-   <tbody>
-      <tr>
-         <td align="left" width="500">
-            <h4>
-               Student name: E.Erol ⭐
-            </h4>
-            <h4>
-               My Credits: 92 🎯
-            </h4>
-            <h4>
-            	My target: Full Stack
-	    </h4>
-	    <h4>
-            	Web Developer 🏆
-	    </h4>
-         </td>
-         <td align="left" width="500">
-            <h4>
-               C# ✅
-            </h4>
-	    <h4>
-               SQL ✅
-            </h4>
-            <h4>
-               JavaScript ✅
-            </h4>
-	    <h4>
-               HTML & CSS ✅
-            </h4>
-         </td>
-      </tr>
-   </tbody>
-</table>
+- **About Me**
+  - *I’m a student at* [**Software University**](https://softuni.bg/) 💻
+  - *Student name:* `E.Erol`⭐
+  - *My Credits:* `92`🎯
+  - *My target:* `Full Stack Web Developer` 🏆
+  
+- **I’m learning programming with**
+  - *`C# ✅`*
+  - *`SQL ✅`*
+  - *`JavaScript ✅`*
+  - *`HTML & CSS ✅`*
 <!-- HEAD END -->
-<hr>
+<br />
 <br />
 <!-- C# Technology Fundamentals Start -->
 <details>
