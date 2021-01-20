@@ -1,6 +1,13 @@
-### Hi, I'm Eray 👋
-### ➡️ I’m a student at Software University. I’m learning programming mainly with `C#` and a little experience with `SQL`, `JavaScript`, `HTML/CSS`. 💻
+- [**Sensors**](./docs/Sensors.md)
+  - [`useBattery`](./docs/useBattery.md) &mdash; tracks device battery state. [![][img-demo]](https://codesandbox.io/s/qlvn662zww)
+  - [`useGeolocation`](./docs/useGeolocation.md) &mdash; tracks geo location state of user's device. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/sensors-usegeolocation--demo)
+  - [`useHover` and `useHoverDirty`](./docs/useHover.md) &mdash; tracks mouse hover state of some element. [![][img-demo]](https://codesandbox.io/s/zpn583rvx)
+  - [`useHash`](./docs/useHash.md) &mdash; tracks location hash value. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/sensors-usehash--demo)
+  - [`useIdle`](./docs/useIdle.md) &mdash; tracks whether user is being inactive.
+  - [`useIntersection`](./docs/useIntersection.md) &mdash; tracks an HTML element's intersection. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/sensors-useintersection--demo)
 
+### Hi, I'm Eray 👋
+### ➡️ I’m a student at [**Software University**](https://softuni.bg/). I’m learning programming mainly with `C#` and a little experience with `SQL`, `JavaScript`, `HTML/CSS`. 💻
 <!-- HEAD START -->
 <table border="0.9" width="1000" cellspacing="12" cellpadding="5" align="left">
    <tbody>
@@ -38,6 +45,8 @@
 </table>
 <!-- HEAD END -->
 <hr>
+<br />
+<!-- C# Technology Fundamentals Start -->
 <details>
    <summary>
 	<strong> CLICK </strong> to see my certificate from Technology Fundamentals - September 2018 ✔️
