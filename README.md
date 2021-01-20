@@ -1,12 +1,11 @@
+<!-- HEAD START -->
+<h2> Hello, gang! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Eray. 👦 <h2>
+
 <p align="left">
   <a href="https://softuni.bg/certificates/details/61142/ca611a05">
    <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" width="200">
   </a>
 </p>
-
-
-<!-- HEAD START -->
-<h2> Hello, gang! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Eray. 👦 <h2>
 
 ## Currently I’m a student at [**Software University**](https://softuni.bg/) 💻
 - ⭐ Student name: `E.Erol`
@@ -63,8 +62,8 @@
 <hr>
 <!--! [](https://img.shields.io/badge/✅EDITOR-VS CODE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 <!-- HEAD END -->
-### My Certificates:
 <!-- C# Technology Fundamentals Start -->
+<h2> My Certificates: </h2>
 <details>
    <summary>
 	<strong> CLICK </strong> to see my certificate from Technology Fundamentals - September 2018 ✔️
