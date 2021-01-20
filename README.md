@@ -127,5 +127,5 @@
 <!-- C# OOP End -->
 <hr>
 
-## I know certificates means nothing 😏
-- If you want to see my solvs and projects [**CLICK**](https://github.com/ErayErol/Software-University-Courses)
+## *Certificates means nothing, If you don't have knowledge* 😏
+- To see my `solvs` and `projects` [**CLICK**](https://github.com/ErayErol/Software-University-Courses)
