@@ -1,6 +1,6 @@
 <!-- HEAD START -->
 - **About Me**
-  - I’m a student at* [**Software University**](https://softuni.bg/) 💻
+  - I’m a student at [**Software University**](https://softuni.bg/) 💻
   - Student name: `E.Erol`⭐
   - My Credits: `92`🎯
   - My target: `Full Stack Web Developer` 🏆
