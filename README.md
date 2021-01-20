@@ -1,4 +1,3 @@
-
 ### Hi, I'm Eray 👋
 ### ➡️ I’m a student at Software University. I’m learning programming mainly with `C#` and a little experience with `SQL`, `JavaScript`, `HTML/CSS`. 💻
 
