@@ -25,7 +25,7 @@
                C# ✅
             </h4>
 	    <h4>
-               MS SQL ✅
+               SQL ✅
             </h4>
             <h4>
                JavaScript ✅
@@ -41,16 +41,7 @@
 <hr>
 <details>
    <summary>
-	   <strong> CLICK </strong> 
-	   <table width="100%" cellspacing="11" cellpadding="14">
-         	<tbody>
-           	 <tr>
-               	  <th align="left">
-                    to see my certificate from Technology Fundamentals - September 2018 ✔️
-               	  </th>
-            	 </tr>
-         	</tbody>
-   	  </table>
+	   <strong> CLICK </strong> to see my certificate from Technology Fundamentals - September 2018 ✔️
    </summary>
    
    <img src="https://softuni.bg/certificates/certificates/converttoimage/61142?code=ca611a05" width="300">
