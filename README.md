@@ -1,7 +1,8 @@
-### Hi, I'm Eray. Feel free to say Hello 👋
+### Hi, I'm Eray 👋
+### ➡️ I’m a student at Software University 💻. I’m learning programming mainly with C# and a little experience with SQL, JavaScript, HTML/CSS.
 
 <!-- HEAD START -->
-<table border="0.9" width="100%" cellspacing="12" cellpadding="5" align="center">
+<table border="0.9" width="100%" cellspacing="12" cellpadding="5" align="left">
    <tbody>
       <tr>
          <td align="left" width="25%">
@@ -10,16 +11,18 @@
              </a>
          </td>
          <td align="left" width="33%">
-            <h3>
+            <h4>
                Student name: E.Erol ⭐
-            </h3>
-            <h3>
+            </h4>
+            <h4>
                My Credits: 92 🎯
-            </h3>
-            <h3>
-               <p>My target: Full Stack</p>
-               <p>Web Developer 🏆</p>
-            </h3>
+            </h4>
+            <h4>
+            	My target: Full Stack
+	    </h4>
+	    <h4>
+            	Web Developer 🏆
+	    </h4>
          </td>
          <td align="left" width="25%">
             <h4>
@@ -39,15 +42,3 @@
    </tbody>
 </table>
 <!-- HEAD END -->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
