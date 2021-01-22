@@ -58,7 +58,9 @@
 <!-- HEAD END -->
 <hr>
 <!-- C# Technology Fundamentals Start -->
-<h2> My Certificates: </h2> 📜
+
+### My Certificates: 📜
+
 <details>
    <summary>
 	<strong> 🔓 CLICK </strong> to see my certificate from Technology Fundamentals - September 2018 ✔️
