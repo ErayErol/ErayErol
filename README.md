@@ -51,14 +51,14 @@
 <br>
 <hr>
 
-### Stats:
+### Stats: 👀
 [![Eray's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ErayErol)](https://github.com/erayerol/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erayerol&layout=compact)
 
 <!-- HEAD END -->
 <hr>
 <!-- C# Technology Fundamentals Start -->
-<h2> My Certificates: </h2>
+<h2> My Certificates: </h2> 📜
 <details>
    <summary>
 	<strong> 🔓 CLICK </strong> to see my certificate from Technology Fundamentals - September 2018 ✔️
@@ -124,5 +124,5 @@
 <!-- C# OOP End -->
 <hr>
 
-## *Certificates means nothing, If you don't have knowledge* 😏
+## *Certificates means nothing, If you don't have knowledge* 😏😎
 - To see my `solvs` and `projects` [**CLICK**](https://github.com/ErayErol/Software-University-Courses)
