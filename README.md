@@ -16,6 +16,8 @@
 - ⚡ Fun fact about me: `I wake up every morning at 04:00 🌄 🌇`
 - 📍 Location: `Haskovo/Bulgaria`
 
+<hr>
+
 ## I’m learning programming with: 💻
 - `C# ✅`
 - `SQL ✅`
@@ -60,6 +62,8 @@
 <!-- C# Technology Fundamentals Start -->
 
 ### My Certificates: 📜
+
+<br>
 
 <details>
    <summary>
