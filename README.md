@@ -51,8 +51,8 @@
 <br>
 <hr>
 
-### GitHub Stats:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erayerol&hide=contribs,prs,issues&theme=tokyonight)
+### Stats:
+[![Eray's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ErayErol)](https://github.com/erayerol/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erayerol&layout=compact)
 
 <!-- HEAD END -->
