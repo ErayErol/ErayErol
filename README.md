@@ -26,13 +26,6 @@
 
 <hr>
 
-### Spotify Playing 🎧
-<link rel="stylesheet" href="https://unpkg.com/@coreui/icons/css/all.min.css">
- <a href="youtube.com"><i class="cil-fingerprint"></i></a>
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
-
-<hr>
-
 ### Languages and Tools: 🔧
 
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
@@ -123,11 +116,20 @@
 <!-- C# OOP Start -->
 <details>
    <summary>
-	    <strong> 🔓 CLICK </strong> to see my certificate from C# OOP - October 2020 2020 ✔️
+	    <strong> 🔓 CLICK </strong> to see my certificate from C# OOP - October 2020 ✔️
    </summary>
    <img src="https://softuni.bg/certificates/certificates/converttoimage/95864?code=115c65bc" width="300">
 </details>
 <!-- C# OOP End -->
+<hr>
+<!-- MS SQL Start -->
+<details>
+   <summary>
+	    <strong> 🔓 CLICK </strong> to see my certificate from MS SQL - January 2021 ✔️
+   </summary>
+   <img src="https://softuni.bg/certificates/certificates/converttoimage/97790?code=27d86c1f" width="300">
+</details>
+<!-- MS SQL End -->
 <hr>
 
 ## *Certificates means nothing, If you don't have knowledge* 😏😎
