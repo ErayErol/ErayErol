@@ -11,7 +11,7 @@
 - ⭐ Student name: `E.Erol`
 - 🎯 My Credits: `101`
 - 🏆 My target: `Full Stack Web Developer`
-- 🥅 2021 Goals: `Entity Framework Core`, `Data Structures`, `C# Web Basics`, `ASP.NET CORE`
+- 🥅 2021 Goals: `Entity Framework Core`, `C# Web Basics`, `ASP.NET CORE`
 - ❤️ I love: `Football ⚽` `Manchester United 👿` `Dogs 🐶` `Sport Cars 🚗` `Cycling 🚵`
 - ⚡ Fun fact about me: `I wake up every morning at 04:00 🌄 🌇`
 - 📍 Location: `Haskovo/Bulgaria`
