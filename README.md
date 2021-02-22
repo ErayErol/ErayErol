@@ -16,6 +16,9 @@
 - ⚡ Fun fact about me: `I wake up every morning at 04:00 🌄 🌇`
 - 📍 Location: `Haskovo/Bulgaria`
 
+* [Entity Framework Core](#entity-framework-core)
+* [Microsoft.Data.Sqlite](#microsoftdatasqlite)
+
 <hr>
 
 ## I’m learning programming with: 💻
@@ -45,6 +48,9 @@
 
 <br>
 <hr>
+
+Entity Framework Core
+--------------------
 
 ### Stats: 👀
 [![Eray's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ErayErol)](https://github.com/erayerol/github-readme-stats)
