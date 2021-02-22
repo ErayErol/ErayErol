@@ -49,6 +49,7 @@
 <hr>
 
 Entity Framework Core
+------------------------
 
 ### Stats: 👀
 [![Eray's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ErayErol)](https://github.com/erayerol/github-readme-stats)
