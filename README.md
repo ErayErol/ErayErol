@@ -9,7 +9,7 @@
 
 ## Currently I’m a student at [**Software University**](https://softuni.bg/) 👨‍🎓
 - ⭐ Student name: `E.Erol`
-- 🎯 My Credits: `116`
+- 🎯 My Credits: `117`
 - 🏆 My target: `Full Stack Web Developer`
 - 🥅 2021 Goals: `C# Web Basics`, `ASP.NET CORE`
 - ❤️ I love: `Football ⚽` `Manchester United 👿` `Dogs 🐶` `Sport Cars 🚗` `Cycling 🚵`
@@ -23,6 +23,7 @@
 - `SQL ✅`
 - `JavaScript ✅`
 - `HTML & CSS ✅` 
+- `Python ✅` 
 
 <hr>
 
