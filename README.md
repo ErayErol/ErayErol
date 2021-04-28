@@ -12,8 +12,6 @@
 - 🎯 My Credits: `117`
 - 🏆 My target: `Full Stack Web Developer`
 - 🥅 2021 Goals: `C# Web Basics`, `ASP.NET CORE`
-- ❤️ I love: `Football ⚽` `Manchester United 👿` `Dogs 🐶` `Sport Cars 🚗` `Cycling 🚵`
-- ⚡ Fun fact about me: `I wake up every morning at 04:00 🌄 🌇`
 - 📍 Location: `Haskovo/Bulgaria`
 
 <hr>
