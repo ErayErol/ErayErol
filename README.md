@@ -11,7 +11,7 @@
 - ⭐ Student name: `E.Erol`
 - 🎯 My Credits: `147`
 - 🏆 My target: `Full Stack Web Developer`
-- 🥅 2021 Goals: `ASP.NET CORE`
+- 🥅 2021 Goals: `Node.js, Express.js, MongoDB and React`
 - 📍 Location: `Haskovo/Bulgaria`
 
 <hr>
